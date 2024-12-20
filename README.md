@@ -5,9 +5,9 @@
 * It lets you automate tasks like building, testing, and deploying your code directly from your repository.
 * You can define custom workflows, or pipelines, that are triggered by specific events, such as pushing code, creating a pull request, or scheduling a run.
 
-A workflow is a sequence of jobs
-A job is a collection of steps
-Steps are individual tasks
+* A workflow is a sequence of jobs
+* A job is a collection of steps
+* Steps are individual tasks
 
 *How it Works:*
 1. Trigger: A workflow is triggered by an event, such as pushing code to a branch or merging a pull request.
