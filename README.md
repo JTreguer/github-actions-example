@@ -28,13 +28,16 @@ This workflow would be defined in a .yml file in your repository's .github/workf
 ## References
 
 ### Doc Github Actions
-Quickstart: https://docs.github.com/fr/actions/writing-workflows/quickstart
+Quickstart:
+https://docs.github.com/fr/actions/writing-workflows/quickstart
 
 ### Deployment to Azure Web app
 Have a look at the example .yml file:
+
 https://docs.github.com/en/actions/use-cases-and-examples/deploying/deploying-python-to-azure-app-service
 
 Video here:
+
 https://www.youtube.com/watch?v=QP0pi7xe24s
 
 ![1_zRqs67v54MgZtqHx9kl4EA](https://github.com/user-attachments/assets/9d00b0f4-619c-41aa-8df8-be0dd8b751b4)
