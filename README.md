@@ -35,8 +35,12 @@ https://docs.github.com/fr/actions/writing-workflows/quickstart
 Have a look at the example .yml file:
 https://docs.github.com/en/actions/use-cases-and-examples/deploying/deploying-python-to-azure-app-service
 
-Video here:
-https://www.youtube.com/watch?v=QP0pi7xe24s
+Video on building a Flask app with GitHub Actions (in less than 2mn): https://www.youtube.com/watch?v=zdPLvGj85dg
+
+Video on deploying a Flask app to Azure using VS Code and GitHub Actions:
+https://www.youtube.com/watch?v=-u1vdcGPXeE
+
+
 
 ![1_zRqs67v54MgZtqHx9kl4EA](https://github.com/user-attachments/assets/9d00b0f4-619c-41aa-8df8-be0dd8b751b4)
 
