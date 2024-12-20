@@ -33,7 +33,6 @@ https://docs.github.com/fr/actions/writing-workflows/quickstart
 
 ### Deployment to Azure Web app
 Have a look at the example .yml file:
-
 https://docs.github.com/en/actions/use-cases-and-examples/deploying/deploying-python-to-azure-app-service
 
 Video here:
