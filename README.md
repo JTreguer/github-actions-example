@@ -50,3 +50,4 @@ https://www.youtube.com/watch?v=-u1vdcGPXeE
 2) Implement this tutorial steps preferably with your own Flask/Django app:
 https://blog.devgenius.io/github-actions-101-with-azure-app-service-24b19c093c25
 4) Add some tests in the workflow file
+5) Post your workflow file plus any relevant logs and screenshots
